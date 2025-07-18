@@ -5,16 +5,16 @@ Purpose:
 The main branch acts as a central reference point and includes general documentation,
 navigation, and summary files related to the QA exercises included in this repository.
 
-ContentsČ
+Contents:
 -Overview of QA topics covered (manual testing, test planning, bug reporting, test case design, etc.)
 
-Links or references to individual branches:
--testplans: Sample test plans
--bug-reports: Simulated bug reports
--test-cases: Manual test cases
--2bva-tables: Two-value decision table exercises
--improvements: Website improvement suggestions
--sql testing: SQL practice exercises
+Repository Structure:
+-Test Plans – Sample test plans created for practice
+-Bug Reports – Simulated bug reports based on common testing scenarios
+-Test Cases – Manual test cases following standard format
+-2BVA Tables – Two-value decision tables for logical test design
+-SQL – SQL exercises completed using MySQL Workbench
+-Improvements – Suggestions and ideas for UI/UX and functionality improvements
 
 
 Notes:
